@@ -1,4 +1,4 @@
-# E-PERPUS
+# E-PERPUS WIJANG SMKN 6 SURAKARTA
  Aplikasi perpustakaan sederhana ini dibuat menggunakan Template admin dari AdminLTE.io dan Menggunakan bahasa pemograman PHP MySQLI. <br> <br>
  Aplikasi ini bebas untuk di kembangkan lagi atau untuk bahan pembelajaran kalian bagi yang mau membuat applikasi perpustakaan, mungkin bisa mengambil contoh dari applikasi ini :)
 
@@ -23,14 +23,4 @@ Password : admin
      <li> Sesuaikan dengan setinga di localhost kalian masing masing </li>
      <li> Jika menurut kalian file koneksi.php sudah sesuai dengan setingan yang kalian gunakan, Selanjutnya kalian bisa langsung masuk ke Applikasi nya :) </li>
      <li> Semoga Bermanfaat </li>
-</ul>
-
-# Terima Kasih
-<ul>
-    <li> AdminLTE </li>
-    <li> PT. Pacifica Raya Technology </li>
-    <li> Stackover Flow </li>
-    <li> Google </li>
-    <li> Github </li>
-    <li> Malasngoding.com </li>
 </ul>
